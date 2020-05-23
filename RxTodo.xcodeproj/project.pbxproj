@@ -377,6 +377,7 @@
 				TargetAttributes = {
 					03D0C0AE1D269F7900EE93D5 = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = 4YL8LS5ZJC;
 						LastSwiftMigration = 0800;
 					};
 					03FB82E01D58BBDD004EF4FB = {
@@ -391,6 +392,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -731,6 +733,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 4YL8LS5ZJC;
 				INFOPLIST_FILE = "$(SRCROOT)/RxTodo/Support/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = kr.xoul.RxTodo;
@@ -745,6 +748,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 4YL8LS5ZJC;
 				INFOPLIST_FILE = "$(SRCROOT)/RxTodo/Support/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = kr.xoul.RxTodo;
